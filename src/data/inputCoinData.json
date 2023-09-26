@@ -1,0 +1,163 @@
+[
+  {
+    "currency_id": 11,
+    "title": "Tether TRC20 (USDT)",
+    "slug": "USDTTRC20",
+    "currency_code": "USDT",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2022-06-11/57c745e9f43498ffb107a66d866a53fb/tether.png"
+  },
+  {
+    "currency_id": 4,
+    "title": "Bitcoin",
+    "slug": "BTC",
+    "currency_code": "BTC",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2020-07-08/ce6c39c6715e69ed66b994838f23a036/bitcoin.png"
+  },
+  {
+    "currency_id": 1,
+    "title": "PayPal USD",
+    "slug": "PPUSD",
+    "currency_code": "USD",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2022-04-20/bf7068f23a44c1bc049e737fd7b9c44a/paypalusd.png"
+  },
+  {
+    "currency_id": 71,
+    "title": "Tether POLYGON (USDT)",
+    "slug": "USDTPOLYGON",
+    "currency_code": "USDT",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2023-08-06/41d9611c456bb6996d1c9f65c569e8cd/tether.png"
+  },
+  {
+    "currency_id": 8,
+    "title": "Tether ERC20 (USDT)",
+    "slug": "USDTERC20",
+    "currency_code": "USDT",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2022-06-11/31bb1a34f932eccfb7d53bc260cd390b/tether.png"
+  },
+  {
+    "currency_id": 69,
+    "title": "Tether BEP20 (USDT)",
+    "slug": "USDTBEP20",
+    "currency_code": "USDT",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2023-06-10/8e2f6fb4895374bbad63e07886718021/tether-%281%29.png"
+  },
+  {
+    "currency_id": 2,
+    "title": "Perfect Money (USD)",
+    "slug": "PMUSD",
+    "currency_code": "USD",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2021-10-04/689cc85db0372e848385e2008ea88ce7/perfect-money-logo-%281%29.png"
+  },
+  {
+    "currency_id": 27,
+    "title": "Perfect e-Voucher USD",
+    "slug": "PMVUSD",
+    "currency_code": "USD",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2021-09-29/62be8d594f51bceee7557110b5a3633f/kisspng-logo-circle-vector-graphics-sign-food-network-5b8dcfc5c717f5.1066122215360204218155.png"
+  },
+  {
+    "currency_id": 5,
+    "title": "Ethereum",
+    "slug": "ETH",
+    "currency_code": "ETH",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2020-09-10/700ddb9636e82ffceb1316a08639d95e/logo-eth.png"
+  },
+  {
+    "currency_id": 48,
+    "title": "DAI",
+    "slug": "DAI",
+    "currency_code": "DAI",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2021-12-11/73448d7dbe458ab26958e1111b5c3a07/dai.png"
+  },
+  {
+    "currency_id": 10,
+    "title": "Litecoin",
+    "slug": "LTC",
+    "currency_code": "LTC",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2020-07-08/ec83e6a514ec019aea1996c9c3feeea5/litecoin.png"
+  },
+  {
+    "currency_id": 14,
+    "title": "TRON",
+    "slug": "TRX",
+    "currency_code": "TRX",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2020-10-10/f9c63bb0c868333cb04220317426003b/tron-trx-logo.png"
+  },
+  {
+    "currency_id": 33,
+    "title": "SOLANA",
+    "slug": "SOL",
+    "currency_code": "SOL",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2021-10-05/2144c1f320eae426ff0d388e22d01d9f/solana-sol-logo.png"
+  },
+  {
+    "currency_id": 35,
+    "title": "Monero",
+    "slug": "XMR",
+    "currency_code": "XMR",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2021-11-11/0471f871772378ed6a6127a573ead2c4/monero.png"
+  },
+  {
+    "currency_id": 12,
+    "title": "Ripple",
+    "slug": "XRP",
+    "currency_code": "XRP",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2020-09-13/d52c7a180f04fb63cf452f29981aa6a2/ripple%20%281%29.png"
+  },
+  {
+    "currency_id": 42,
+    "title": "Polygon",
+    "slug": "MATIC",
+    "currency_code": "MATIC",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2021-12-10/2bab11ae430ca4cea146b6b7a427abb1/matic.png"
+  },
+  {
+    "currency_id": 37,
+    "title": "AVAX",
+    "slug": "AVAX",
+    "currency_code": "AVAX",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2021-11-22/15aded8b111f4ba51b94979ef115090e/avax.png"
+  },
+  {
+    "currency_id": 54,
+    "title": "Visa/Mastercard USD (Invoice)",
+    "slug": "Visa/Master",
+    "currency_code": "USD",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2022-12-13/3d9405120f67a94cdc83cf8795311b6a/download.png"
+  },
+  {
+    "currency_id": 7,
+    "title": "Webmoney USD",
+    "slug": "WMZ",
+    "currency_code": "USD",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2021-06-23/61dbfaa213cfb76f97eac5d88d000c0e/wmz.png"
+  },
+  {
+    "currency_id": 70,
+    "title": "Tether SOL (USDT)",
+    "slug": "USDTSOL",
+    "currency_code": "USDT",
+    "is_crypto": null,
+    "icon": "https://api.hi.exchange/storage/uploads/2023-06-10/4fe2f6cdf200b5747083a6f313445414/tether-%281%29.png"
+  }
+
+]

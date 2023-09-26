@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Webmoney to Paypal",
+    "link": "/exchange-webmoney-paypal"
+  },
+  {
+    "title": "Payeer to Paypal",
+    "link": "/exchange-payeer-paypal"
+  },
+  {
+    "title": "Advcash to Paypal",
+    "link": "/exchange-advcash-paypal"
+  },
+  {
+    "title": "Bitcoin to Paypal",
+    "link": "/exchange-bitcoin-paypal"
+  },
+  {
+    "title": "Tether to Paypal",
+    "link": "/exchange-tether-usdt-paypal"
+  }
+]
