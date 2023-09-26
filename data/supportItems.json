@@ -1,0 +1,22 @@
+[
+  {
+    "title": "About",
+    "link": "/about"
+  },
+  {
+    "title": "Contact",
+    "link": "/contact-us"
+  },
+  {
+    "title": "FAQ",
+    "link": "/faq"
+  },
+  {
+    "title": "Terms",
+    "link": "/"
+  },
+  {
+    "title": "AML/KYC Policy",
+    "link": "/aml-kyc-policy"
+  }
+]

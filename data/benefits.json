@@ -1,0 +1,17 @@
+[
+    {
+        "title": "No Exchange Fees",
+        "desc": "We don’t charge you anything more than stated in the order details",
+        "image": "/assets/no-fees.png"
+    },
+    {
+        "title": "24/7 Online Support",
+        "desc": "Need support? We’re always there for you. Reach out to HiExchange any time of the day",
+        "image": "/assets/benefit-support.svg"
+    },
+    {
+        "title": "Hassle-Free KYC",
+        "desc": "At HiExchange everything is fast and furious! No headache or extra steps to slow you down",
+        "image": "/assets/hassle-free.png"
+    }
+]
